@@ -2,6 +2,9 @@
 
 Scan your codebase for `TODO`, `FIXME`, `HACK`, `XXX`, and `NOTE` comments. Results are grouped by tag and printed with colored terminal output.
 
+<img width="800" height="450" alt="HowItWorks" src="https://github.com/user-attachments/assets/3146d04f-767b-4c15-b1e4-7945cf47b51c" />
+
+
 ```
 ━━━ TODO (3) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   src/main.py:42                              # TODO: handle empty input edge case
